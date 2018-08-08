@@ -1,0 +1,8 @@
+cat
+dog
+frog
+python
+mouse
+cobra
+zebra
+rat
